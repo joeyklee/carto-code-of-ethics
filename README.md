@@ -1,4 +1,3 @@
-
 # Map Maker Code of Ethics
 > Updated and Revised from A Designer’s Code of Ethics by Mike Monteiro Jul 5, 2017 - https://deardesignstudent.com/a-designers-code-of-ethics-f4a88aca9e95
 
@@ -8,13 +7,13 @@
 
 Before you are a map maker, you are a human being. Like every other human being on the planet, you are part of the social contract. We share a planet. By choosing to be a map maker you are choosing to impact the people who come in contact with your work, you can either help or hurt them with your actions. The effect of what you put into the fabric of society should always be a key consideration in your work.
 
-Every human being on this planet is obligated to do our best to leave this planet in better shape than we found it. map makers don’t get to opt out.
+Every human being on this planet is obligated to do our best to leave this planet in better shape than we found it. Map makers don’t get to opt out.
 
 When you do work that depends on a need for income disparity or class distinctions to succeed you are failing your job as a citizen, and therefore as a map maker.
 
 ## A map maker is responsible for the work they put into the world.
 
-Design is a discipline of action. You are responsible for what you put into the world. It has your name on it. And while it is certainly impossible to predict how any of your work may be used, it shouldn’t be a surprise when work that is meant to hurt someone fulfills its mission. We cannot be surprised when a gun we designed kills someone. We cannot be surprised when a database we designed to catalog immigrants gets those immigrants deported. When we knowingly produce work that is intended to harm, we are abdicating our responsibility. When we ignorantly produce work that harms others because we didn’t consider the full ramifications of that work, we are doubly guilty.
+Cartography, GIS, Remote Sensing, Map Making, Geospatial `_________` is a discipline of action. You are responsible for what you put into the world. It has your name on it. And while it is certainly impossible to predict how any of your work may be used, it shouldn’t be a surprise when work that is meant to hurt someone fulfills its mission. We cannot be surprised when a map we designed kills someone. We cannot be surprised when a database we designed to catalog immigrants gets those immigrants deported. When we knowingly produce work that is intended to harm, we are abdicating our responsibility. When we ignorantly produce work that harms others because we didn’t consider the full ramifications of that work, we are doubly guilty.
 
 The work you bring into the world is your legacy. It will outlive you. And it will speak for you.
 
