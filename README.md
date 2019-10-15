@@ -21,17 +21,19 @@ The work you bring into the world is your legacy. It will outlive you. And it wi
 
 We need to fear the consequences of our work more than we love the cleverness of our ideas.
 
-Design does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. Ultimately we must judge the value of our work based on that impact, rather than any aesthetic considerations. An object that is designed to harm people cannot be said to be well-designed, no matter how aesthetically pleasing it might be, because to design it well is to design it to harm others. Nothing a totalitarian regime designs is well-designed because it has been designed by a totalitarian regime.
+Maps do not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. Ultimately we must judge the value of our work based on that impact, rather than any aesthetic considerations. An object that is designed to harm people cannot be said to be well-designed, no matter how aesthetically pleasing it might be, because to design it well is to design it to harm others. Nothing a totalitarian regime designs is well-designed because it has been designed by a totalitarian regime.
 
     A broken gun is better designed than a working gun.
+    ...
+    Not mapping is better than a map 
 
-Non-Violence, Carl Fredrik Reuterswärd, 1985
+
 
 ## A map maker owes the people who hire them not just their labor, but their counsel.
 
-When you are hired to design something, you are hired for your expertise. Your job is not just to produce that work but to evaluate the impact of that work. Your job is to relay the impact of that work to your client or employer. And should that impact be negative, it is your job to relay that to your client along with a way, if possible, to eliminate the negative impact of the work. If it’s impossible to eliminate the negative impact of the work, it’s your job to stop it from seeing the light of day. In other words, you’re not hired to just dig a ditch, but to evaluate the economic, sociological, and ecological impact of that ditch. If the ditch fails those tests, it’s your job to destroy the shovels.
+When you are hired to map something, you are hired for your expertise. Your job is not just to produce that work but to evaluate the impact of that work. Your job is to relay the impact of that work to your client or employer. And should that impact be negative, it is your job to relay that to your client along with a way, if possible, to eliminate the negative impact of the work. If it’s impossible to eliminate the negative impact of the work, it’s your job to stop it from seeing the light of day. In other words, you’re not hired to just dig a ditch, but to evaluate the economic, sociological, and ecological impact of that ditch. If the ditch fails those tests, it’s your job to destroy the shovels.
 
-A map maker uses their expertise in the service of others without being a servant. Saying no is a design skill. Asking why is a design skill. Rolling your eyes is not. Asking ourselves why we are making something is an infinitely better question than asking ourselves whether we can make it.
+A map maker uses their expertise in the service of others without being a servant. Saying no is a map making skill. Asking why is a map making skill. Rolling your eyes is not. Asking ourselves why we are making something is an infinitely better question than asking ourselves whether we can make it.
 
 ## A map maker welcomes criticism.
 
@@ -39,17 +41,17 @@ No code of ethics should protect your work from criticism, be it from clients, t
 
 The role of criticism, when given appropriately, is to evaluate and improve work. Criticism is a gift. It makes good work better. It keeps bad work from seeing the light of day.
 
-Criticism should be asked for and welcomed at every step of the design process. You can’t fix a cake once it’s been baked. But you can increase the chances your project is successful by getting feedback early and often. It’s your responsibility to ask for criticism.
+Criticism should be asked for and welcomed at every step of the map making process. You can’t fix a cake once it’s been baked. But you can increase the chances your project is successful by getting feedback early and often. It’s your responsibility to ask for criticism.
 
 ## A map maker strives to know their audience.
 
-Design is the intentional solution to a problem within a set of constraints. To know whether you are properly solving those problems you need to meet the people who are having them. And if you are part of a team, your team should strive to reflect those people. The more a team can reflect the audience it is solving for, the more thoroughly it can solve those problems. That team can come at a problem from different points-of-view, from different backgrounds, from different sets of needs and experiences. A team with a single point of view will never understand the constraints they need to design for as well as a team with multiple points of view.
+Map making is a privilege. Map making gives you power. As a map maker, you are creating a rendering of the world, making decisions about what is represented and therefore who is represented. To know whether you are properly modeling the world you need to meet the people who may be affected by your map. And if you are part of a team, your team should strive to reflect those people. The more a team can reflect the audience it is mapping for, the more thoroughly you can map. That team can represent "what is on the map" from different points-of-view, from different backgrounds, from different sets of needs and experiences. A team with a single point of view will never understand the politics of their maps as well as a team with multiple points of view.
 
 What about empathy? Empathy is a pretty word for exclusion. If you want to know how women would use something you’re designing get a woman on the team that’s designing it.
 
 ## A map maker does not believe in edge cases.
 
-When you decide who you’re designing for, you’re making an implicit statement about who you’re not designing for. For years we referred to people who weren’t crucial to our products’ success as “edge cases”. We were marginalizing people. And we were making a decision that there were people in the world whose problems weren’t worth solving.
+When you decide who you’re making a map for, you’re making an implicit statement about who you’re not making a map for. For years we referred to people who weren’t crucial to our products’ success as “edge cases”. We were marginalizing people. And we were making a decision that there were people in the world whose problems weren’t worth solving. 
 
 Facebook now claims to have two billion users. 1% of two billion people, which most products would consider an edge case, is twenty million people. Those are the people at the margins.
 
