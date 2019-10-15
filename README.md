@@ -1,6 +1,8 @@
 
-# Cartographer / Mapper Code of Ethics
+# Map Maker Code of Ethics
 > Updated and Revised from A Designer’s Code of Ethics by Mike Monteiro Jul 5, 2017 - https://deardesignstudent.com/a-designers-code-of-ethics-f4a88aca9e95
+
+**WORK IN PROGRESS - please ignore OR give feedback in the [issues](https://github.com/joeyklee/carto-code-of-ethics/issues)**
 
 ## A map maker is first and foremost a human being.
 
